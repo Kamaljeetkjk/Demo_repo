@@ -1,0 +1,2 @@
+This file has been created using vim on got bash 
+we can create and edit files using vim editor.
